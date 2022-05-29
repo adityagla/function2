@@ -1,0 +1,5 @@
+def student(firstname, lastname):
+    print(firstname, lastname)
+ 
+student(firstname='Aditya', lastname='Mishra')
+student(lastname='Mishra', firstname='Aditya')
